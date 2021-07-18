@@ -19,24 +19,29 @@ Gestures Trained :-
 5) Drumming Fingers - Start
 6) Waving Hand - Mute
 7) Stop Sign - Stop
+8) No Gesture
 
 # SCREENSHOTS/ PROCEDURE :-
-MAIN SCREEN:
-![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/1.png)
+Project Control Flow:
+![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/0.png)
 
-Entering ID & Name:
-![Screenshot (10)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/2.png)
+No Gesture:
+![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/1.png)
 
-Tap on Click Button To Capture your Image:
-![Screenshot (11)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/3.png)
+Swipping 2 fingers Up - Volume Up:
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/2.png)
 
-Click on Train Button to Train the Model:
-![Screenshot (12)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/4.png)
+Slidding 2 fingers Down - Volume Down:
+![Screenshot (12)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/3.png)
 
-Click on Track Button to See the Model in Action:
-![Screenshot (13)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/5.png)
+Swipping Left - Move Backward:
+![Screenshot (13)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/4.png)
 
-Press "Q" Button on Keyboard to Exit the Tracking Window
+Swipping Right - Move Foorward:
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/5.png)
 
-Click on Quit Button to Exit the Application:
-![Screenshot (11)](https://github.com/rohitks483/Real-Time-Facial-Recognition-Based-Attendance-System/blob/main/ReadMe%20Files/6.png)
+Drumming Fingers - Start:
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/6.png)
+
+Stop Sign - Stop:
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/8.png)
