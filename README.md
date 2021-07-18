@@ -1,4 +1,4 @@
-# Hand-Gesture-Control-Monitor-Screen
+# Hand-Gesture-Control-Desktop-Screen
 
 A Deep Learning Based System which has been trained to recognize hand gestures/movements to performs task/Programs on Desktop Screen.
 Like Controling a Media Player, Change Volume, Switch Taks, Forward or Backward Video or Even Skip!
