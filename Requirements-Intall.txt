@@ -1,0 +1,7 @@
+Install latest version of Python and all the Modules mentioned below:-
+
+pip install keras
+pip install tensorflow
+pip install tf-nightly
+pip install numpy
+pip install pandas
