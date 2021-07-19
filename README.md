@@ -5,10 +5,11 @@ Like Controling a Media Player, Change Volume, Switch Taks, Forward or Backward 
 
 Technology USED:
 1) Deep Learning - CNN Algorithm
-2) Numpy
-3) Pandas
-4) OpenCV
-5) KeyBoard Mapping
+2) tensorflow
+3) Numpy
+4) Pandas
+5) OpenCV
+6) KeyBoard Mapping
 
 Gestures Trained :-
 
